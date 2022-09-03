@@ -4,6 +4,7 @@
 <body>
     <h2>It's working on Tomcat server.</h2>
     <h2>SSong my working success!</h2>
+    <h2>Ha Ha Ha!</h2>
     <hr>
     <h1>${msg}</h1>
     <h1>Have a nice day.</h1>
